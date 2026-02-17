@@ -19,4 +19,12 @@ The telecom company wants to reduce customer churn and prevent revenue loss by i
 	•	Target predicted churners with personalized retention strategies.
 	•	Continuously monitor flagged customers and update the model with new data.
 
-# PRESENTATION SLIDES
+# BUSINESS INSIGHTS
+497 OUT OF 551 NON-CHURNERS WERE CORRECTLY PREDICTED, HENCE A 90% RETENTION AMONG CUSTOMERS. FOCUSING ON LOYALTY PROGRAMS AND REWARDS WOULD MAINTAIN STRONG RETENTION
+
+27 CHURNERS PREDICTED AS NONCHURNERS COULD SLIP THROUGH UNNOTICED HENCE, IMPLEMENTATION OF RISK-BASED INTERVENTIONS FOR CUSTOMERS WITH BODERLINE SCORES WOULD REDUCE MISSED CHURN OPPORTUNITIES.
+
+[CHECKOUT THE PROJECT PRESENTATION](https://www.canva.com/design/DAHBla_ADXQ/wsRt6C-o8nmTwwxMLgViSw/view?utm_content=DAHBla_ADXQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hafd4ab179c)
+
+
+
